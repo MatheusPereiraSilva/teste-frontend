@@ -12,3 +12,5 @@ Este projeto foi realizado como parte de um teste de frontend, onde apliquei min
 ## Experiência de Aprendizado
 
 Este projeto proporcionou uma excelente oportunidade para aprofundar meu entendimento das técnicas de posicionamento CSS. Trabalhar em um layout que exigia atenção meticulosa aos detalhes me ajudou a aprimorar minhas habilidades de desenvolvimento frontend. Independentemente de eu ter sucesso em garantir esta posição ou não, este desafio contribuiu significativamente para o meu crescimento como desenvolvedor frontend.
+
+PS: Por serem dois temas diferentes optei por codar de duas maneiras, uma utilizando o conceito de mobile first e outra com o desktop first para que possa ser avaliado as duas maneiras de codificação.
